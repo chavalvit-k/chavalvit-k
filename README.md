@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Chavalvit "passa" Keartnattarkorn
+- 🎓 I'm studying at Chonradsadornumrung school in grade 12
+- ⭐ I’m interested in coding , video games and poker
+- 🚀 I’m currently learning C++ to be expert
+- 😂 Fun fact : I just started learn how to code in Feb 2021
+- 📫 How to reach me : [Facebook](https://www.facebook.com/Chavalvit) , [Instagram](https://www.instagram.com/chavalvit.k/)
