@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Chavalvit "passa" Keartnattarkorn
-- 🎓 I'm studying at Kasetsart University
-- ⭐ I’m interested in coding, investment and poker
+- 👋 Hi, I’m Chavalvit Keartnattarkorn
+- 🎓 Studying at Kasetsart University
+- ⭐ Interested in coding, investment and poker
 - 📫 How to reach me : [Facebook](https://www.facebook.com/Chavalvit) , [Instagram](https://www.instagram.com/chavalvit.k/)
 
 
